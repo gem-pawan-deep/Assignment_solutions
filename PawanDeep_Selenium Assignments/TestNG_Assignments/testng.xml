@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <groups>
+        <run>
+          <!--  <include name="reg"/>  -->
+            <exclude name="reg"></exclude>
+        </run>
+    </groups>
+    <test verbose="2" preserve-order="true" name="testClass1">
+        <classes>
+            <class name="testClass1"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="testClass2">
+        <classes>
+            <class name="testClass2"/>
+        </classes>
+    </test>
+</suite>

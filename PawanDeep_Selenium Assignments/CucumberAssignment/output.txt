@@ -1,0 +1,35 @@
+"C:\Program Files\Java\jdk-17.0.2\bin\java.exe" -ea -DnodeNamesHandler=org.jetbrains.plugins.cucumber.java.run.CucumberTestTreeNodeManager -Didea.test.cyclic.buffer.size=1048576 "-javaagent:C:\Users\pa.deep\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=62856:C:\Users\pa.deep\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\pa.deep\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar;C:\Users\pa.deep\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\plugins\junit\lib\junit5-rt.jar;C:\Users\pa.deep\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\plugins\junit\lib\junit-rt.jar;C:\Users\pa.deep\IdeaProjects\CucumberProject\target\test-classes;C:\Users\pa.deep\IdeaProjects\CucumberProject\target\classes;C:\Users\pa.deep\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\pa.deep\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\cucumber-junit\7.2.3\cucumber-junit-7.2.3.jar;C:\Users\pa.deep\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\cucumber-core\7.2.3\cucumber-core-7.2.3.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\cucumber-gherkin\7.2.3\cucumber-gherkin-7.2.3.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.2.3\cucumber-gherkin-messages-7.2.3.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\messages\17.1.1\messages-17.1.1.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\tag-expressions\4.1.0\tag-expressions-4.1.0.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\cucumber-expressions\15.0.1\cucumber-expressions-15.0.1.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\datatable\7.2.3\datatable-7.2.3.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\cucumber-plugin\7.2.3\cucumber-plugin-7.2.3.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\docstring\7.2.3\docstring-7.2.3.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\html-formatter\17.0.0\html-formatter-17.0.0.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\ci-environment\8.1.0\ci-environment-8.1.0.jar;C:\Users\pa.deep\.m2\repository\io\cucumber\cucumber-java\7.2.3\cucumber-java-7.2.3.jar;C:\Users\pa.deep\AppData\Roaming\JetBrains\IdeaIC2021.3\plugins\cucumber-java\lib\cucumber-jvmFormatter.jar" com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit4 TestRunnerFile.testRunner
+Net Banking landing Page
+user1 pass1
+Populated Home page
+true
+Net Banking landing Page
+user2 pass2
+Populated Home page
+true
+Net Banking landing Page
+user3 pass3
+Populated Home page
+true
+Net Banking landing Page
+user4 pass4
+Populated Home page
+true
+┌───────────────────────────────────────────────────────────────────────────────────┐
+│ Share your Cucumber Report with your team at https://reports.cucumber.io          │
+│ Activate publishing with one of the following:                                    │
+│                                                                                   │
+│ src/test/resources/cucumber.properties:          cucumber.publish.enabled=true    │
+│ src/test/resources/junit-platform.properties:    cucumber.publish.enabled=true    │
+│ Environment variable:                            CUCUMBER_PUBLISH_ENABLED=true    │
+│ JUnit:                                           @CucumberOptions(publish = true) │
+│                                                                                   │
+│ More information at https://cucumber.io/docs/cucumber/environment-variables/      │
+│                                                                                   │
+│ Disable this message with one of the following:                                   │
+│                                                                                   │
+│ src/test/resources/cucumber.properties:          cucumber.publish.quiet=true      │
+│ src/test/resources/junit-platform.properties:    cucumber.publish.quiet=true      │
+└───────────────────────────────────────────────────────────────────────────────────┘
+
+Process finished with exit code 0

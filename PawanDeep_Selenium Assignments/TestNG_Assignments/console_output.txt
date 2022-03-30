@@ -1,0 +1,141 @@
+"C:\Program Files\Java\jdk-17.0.2\bin\java.exe" -ea -Didea.test.cyclic.buffer.size=1048576 "-javaagent:C:\Users\pa.deep\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=51579:C:\Users\pa.deep\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\pa.deep\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar;C:\Users\pa.deep\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\plugins\testng\lib\testng-rt.jar;C:\Users\pa.deep\IdeaProjects\TestNG_Assignment\out\production\TestNG_Assignment;C:\Users\pa.deep\Downloads\testng-7.5.jar;C:\Users\pa.deep\Downloads\selenium-server-4.1.2.jar" com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket51578 @w@C:\Users\pa.deep\AppData\Local\Temp\idea_working_dirs_testng.tmp -temp C:\Users\pa.deep\AppData\Local\Temp\idea_testng.tmp
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [TestNG] Running:
+  C:\Users\pa.deep\IdeaProjects\TestNG_Assignment\testng.xml
+
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+Test_case:1
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+Test_case:5
+
+===============================================
+All Test Suite
+Total tests run: 2, Passes: 2, Failures: 0, Skips: 0
+===============================================
+
+Feb 21, 2022 6:11:18 PM org.testng.log4testng.Logger info
+INFO: [TestNG] Time taken by org.testng.internal.ExitCodeListener@48fa0f47: 0 ms
+
+Process finished with exit code 0
