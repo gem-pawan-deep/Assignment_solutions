@@ -12,7 +12,7 @@ public class post_httpUrlConnection {
         conn.setRequestProperty("Content-Type", "application/json; utf-8");
         conn.setRequestProperty("Accept","application/json");
         conn.setRequestProperty("Content-Type","application/json");
-        conn.setRequestProperty("Authorization","Bearer aac0f5647c78288207003c8f46abdf1422c9b245597e215f0a019430e0e7d513");
+        conn.setRequestProperty("Authorization","Bearer");
         conn.setDoOutput(true);
         String input = new JSONObject()
                 .put("name", "Pawan Deep")
