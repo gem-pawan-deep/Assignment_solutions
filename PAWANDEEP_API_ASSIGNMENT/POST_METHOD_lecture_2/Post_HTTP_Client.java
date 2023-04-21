@@ -13,7 +13,7 @@ public class Post_HTTP_Client {
         HttpPost post=new HttpPost(URL);
         post.addHeader("Accept","application/json");
         post.addHeader("Content-Type","application/json");
-        post.addHeader("Authorization","Bearer aac0f5647c78288207003c8f46abdf1422c9b245597e215f0a019430e0e7d513");
+        post.addHeader("Authorization","Bearer");
         String json = new JSONObject().put("name", "PawanDeep").put("gender", "male").put("email", "pawan@gmail.com").put("status","active").toString();
         post.setEntity(new StringEntity(json));
         CloseableHttpResponse response=httpClient.execute(post);
