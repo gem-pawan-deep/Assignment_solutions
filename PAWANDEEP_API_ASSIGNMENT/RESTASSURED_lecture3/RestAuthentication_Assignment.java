@@ -10,7 +10,7 @@ public class RestAuthentication_Assignment {
 
         //GET
         Response response = given()
-                .header("Authorization", "Bearer aac0f5647c78288207003c8f46abdf1422c9b245597e215f0a019430e0e7d513").
+                .header("Authorization", "Bearer ").
                 contentType(ContentType.JSON).when().relaxedHTTPSValidation().get();
         System.out.println(response.prettyPrint());
 
@@ -21,7 +21,7 @@ public class RestAuthentication_Assignment {
                 .put("email", "Rahul@gmail.com")
                 .put("status", "active").toString();
         Response response2 = given().header("Content-Type", "application/json")
-                .header("Authorization", "Bearer aac0f5647c78288207003c8f46abdf1422c9b245597e215f0a019430e0e7d513")
+                .header("Authorization", "Bearer ")
                 .contentType(ContentType.JSON)
                 .relaxedHTTPSValidation().body(input).log().all().when().post();
         System.out.println(response2.prettyPrint());
@@ -33,14 +33,14 @@ public class RestAuthentication_Assignment {
                 .put("email", "sandeep123@gmail.com")
                 .put("status", "active").toString();
         Response response3 = given().header("Content-Type", "application/json")
-                .header("Authorization", "Bearer aac0f5647c78288207003c8f46abdf1422c9b245597e215f0a019430e0e7d513")
+                .header("Authorization", "Bearer")
                 .contentType(ContentType.JSON)
                 .relaxedHTTPSValidation().body(input2).log().all().when().put();
         System.out.println(response3.prettyPrint());
 
         //DELETE
         Response response4 = given().header("Content-Type", "application/json")
-                .header("Authorization", "Bearer aac0f5647c78288207003c8f46abdf1422c9b245597e215f0a019430e0e7d513")
+                .header("Authorization", "Bearer")
                 .contentType(ContentType.JSON)
                 .relaxedHTTPSValidation().body(input2).log().all().when().delete();
         System.out.println(response4.prettyPrint());
